@@ -1,0 +1,9 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body,
+:root {
+  font-family: "Inter", sans-serif;
+  scroll-behavior: smooth;
+}
